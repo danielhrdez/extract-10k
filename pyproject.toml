@@ -1,0 +1,19 @@
+[project]
+name = "extract-10k"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fitz>=0.0.1.dev2",
+    "langchain-openai>=0.3.8",
+    "langchain>=0.3.20",
+    "requests>=2.32.3",
+    "langchain-huggingface>=0.1.2",
+    "langchain-community>=0.3.19",
+    "faiss-cpu>=1.10.0",
+    "pymupdf>=1.25.3",
+    "docling>=2.26.0",
+    "python-dotenv>=1.0.1",
+    "tqdm>=4.67.1",
+]
