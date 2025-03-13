@@ -76,13 +76,11 @@ Using method 1, there are some fail cases but 90% of the fields are covered in t
 
 The cost per document processing is approximately $0.1, calculated as follows:
 
-\[
+```math
 \begin{aligned}
 \text{Cost} &= (60{,}000 \times 1.1 \times 10^{-6}) + (10{,}000 \times 4.4 \times 10^{-6}) \\
 &+ (10{,}000 \times 0.15 \times 10^{-6}) + (2{,}000 \times 0.6 \times 10^{-6}) \\
 &= 0.066 + 0.044 + 0.0015 + 0.0012 \\
 &= 0.1127 \text{ USD per document}
 \end{aligned}
-\]
-
-Total cost = $0.1127
+```
