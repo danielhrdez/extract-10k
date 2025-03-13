@@ -1,0 +1,60 @@
+{
+  "section": [
+    {
+      "subtitle": "Description of Business",
+      "content": "We seek to be Earth\u2019s most customer-centric company. In each of our segments, we serve our primary customer sets, consisting of consumers, sellers, developers, enterprises, content creators, advertisers, and employees. We serve consumers through our online and physical stores and focus on selection, price, and convenience. We offer programs that enable sellers to grow their businesses, sell their products in our stores, and fulfill orders through us, and programs that allow authors, independent publishers, musicians, filmmakers, Twitch streamers, skill and app developers, and others to publish and sell content. We serve developers and enterprises of all sizes through AWS, which offers a broad set of on-demand technology services, including compute, storage, database, analytics, and machine learning, and other services. We also manufacture and sell electronic devices. In addition, we provide advertising services to sellers, vendors, publishers, authors, and others, through programs such as sponsored ads, display, and video advertising. We have organized our operations into three segments: North America, International, and AWS."
+    },
+    {
+      "subtitle": "Common Stock Split",
+      "content": "On May 27, 2022, we effected a 20-for-1 stock split of our common stock and proportionately increased the number of authorized shares of common stock. All share, restricted stock unit (\u201cRSU\u201d), and per share or per RSU information throughout this Annual Report on Form 10-K has been retroactively adjusted to reflect the stock split. The shares of common stock retain a par value of $0.01 per share. Accordingly, an amount equal to the par value of the increased shares resulting from the stock split was reclassified from 'Additional paid-in capital' to 'Common stock.'"
+    },
+    {
+      "subtitle": "Prior Period Reclassifications",
+      "content": "Certain prior period amounts have been reclassified to conform to the current period presentation. 'Other operating expense (income), net' was reclassified into 'Depreciation and amortization of property and equipment and capitalized content costs, operating lease assets, and other' on our consolidated statements of cash flows."
+    },
+    {
+      "subtitle": "Principles of Consolidation",
+      "content": "The consolidated financial statements include the accounts of Amazon.com, Inc. and its consolidated entities (collectively, the 'Company'), consisting of its wholly owned subsidiaries and those entities in which we have a variable interest and of which we are the primary beneficiary, including certain entities in India and certain entities that support our seller lending financing activities. Intercompany balances and transactions between consolidated entities are eliminated."
+    },
+    {
+      "subtitle": "Use of Estimates",
+      "content": "The preparation of financial statements in conformity with generally accepted accounting principles of the United States ('GAAP') requires estimates and assumptions that affect the reported amounts of assets and liabilities, revenues and expenses, and related disclosures of contingent liabilities in the consolidated financial statements and accompanying notes. Estimates are used for, but not limited to, income taxes, useful lives of equipment, commitments and contingencies, valuation of acquired intangibles and goodwill, stock-based compensation forfeiture rates, vendor funding, inventory valuation, collectability of receivables, impairment of property and equipment and operating leases, valuation and impairment of investments, self-insurance liabilities, and viewing patterns of capitalized video content. Actual results could differ materially from these estimates. We review the useful lives of equipment on an ongoing basis, and effective January 1, 2022 we changed our estimate of the useful lives for our servers from four years to five years and for our networking equipment from five years to six years. The longer useful lives are due to continuous improvements in our hardware, software, and data center designs. The effect of this change in estimate for the year ended December 31, 2022, based on servers and networking equipment that were included in 'Property and equipment, net' as of December 31, 2021 and those acquired during the year ended December 31, 2022, was a reduction in depreciation and amortization expense of $3.6 billion and a benefit to net loss of $2.8 billion, or $0.28 per basic share and $0.28 per diluted share."
+    },
+    {
+      "subtitle": "Revenue",
+      "content": "Revenue is measured based on the amount of consideration that we expect to receive, reduced by estimates for return allowances, promotional discounts, and rebates. Revenue also excludes any amounts collected on behalf of third parties, including sales and indirect taxes. In arrangements where we have multiple performance obligations, the transaction price is allocated to each performance obligation using the relative stand-alone selling price. We generally determine stand-alone selling prices based on the prices charged to customers or using expected cost plus a margin. A description of our principal revenue generating activities is as follows: Retail sales, Third-party seller services, Subscription services, Advertising services, AWS, and Other."
+    },
+    {
+      "subtitle": "Cost of Sales",
+      "content": "Cost of sales primarily consists of the purchase price of consumer products, inbound and outbound shipping costs\u2014including costs related to sortation and delivery centers and where we are the transportation service provider\u2014and digital media content costs where we record revenue gross, including video and music. Shipping costs to receive products from our suppliers are included in our inventory and are recognized as cost of sales upon sale of products to our customers. Payment processing and related transaction costs, including those associated with seller transactions, are classified in 'Fulfillment' on our consolidated statements of operations."
+    },
+    {
+      "subtitle": "Vendor Agreements",
+      "content": "We have agreements with our vendors to receive consideration primarily for cooperative marketing efforts, promotions, incentives, and volume rebates. We generally consider these amounts received from vendors to be a reduction of the prices we pay for their goods, including property and equipment, or services, and these amounts are recorded as a reduction of the cost of inventory, cost of services, or cost of property and equipment. Volume rebates typically depend on reaching minimum purchase thresholds. We evaluate the likelihood of reaching purchase thresholds using past experience and current year forecasts. When volume rebates can be reasonably estimated, we record a portion of the rebate as we make progress toward the purchase threshold."
+    },
+    {
+      "subtitle": "Fulfillment",
+      "content": "Fulfillment costs primarily consist of costs incurred in operating and staffing our North America and International fulfillment centers, physical stores, and customer service centers, including facilities and equipment expenses (such as depreciation and amortization and rent); costs attributable to buying, receiving, inspecting, and warehousing inventories; picking, packaging, and preparing customer orders for shipment; payment processing and related transaction costs\u2014including costs associated with our guarantee for certain seller transactions; and supply chain management for our manufactured electronic devices. Fulfillment costs also include amounts paid to third parties that assist us in fulfillment and customer service operations."
+    },
+    {
+      "subtitle": "Technology and Content",
+      "content": "Technology and content costs include payroll and related expenses for employees involved in research and development of new and existing products and services, as well as for the development, design, and maintenance of our online stores, the curation and display of products and services made available therein, and our technology infrastructure costs. Infrastructure costs include expenditures for servers, networking equipment, and data center related depreciation and amortization, rent, utilities, and other expenses necessary to support AWS and other Amazon businesses. These costs reflect the investments we make to offer a wide variety of products and services, including expenditures related to initiatives to build and deploy innovative and efficient software and electronic devices, as well as investments in building a satellite network for global broadband service and in autonomous vehicles for ride-hailing services. Such costs are expensed as incurred; capital expenditures are depreciated or amortized over their estimated useful lives."
+    },
+    {
+      "subtitle": "Sales and Marketing",
+      "content": "Sales and marketing costs include advertising as well as payroll and related expenses for personnel engaged in various marketing and selling activities, including sales commissions (some of which relate to AWS). We direct customers to our stores primarily through multiple marketing channels\u2014including sponsored search, social and online advertising, third-party customer referrals, television advertising, and other initiatives\u2014and these costs are expensed as incurred."
+    },
+    {
+      "subtitle": "General and Administrative",
+      "content": "General and administrative expenses consist primarily of costs for corporate functions, including payroll and related expenses; facilities and equipment costs (such as depreciation, amortization, and rent); and professional fees. These expenses are expensed as incurred."
+    },
+    {
+      "subtitle": "Stock-Based Compensation",
+      "content": "Compensation cost for all equity-classified awards that are expected to vest is measured at fair value on the date of grant and recognized over the service period. The fair value of restricted stock units is determined based on the number of shares granted and the quoted market price of our common stock. Such compensation expense is recognized over the requisite service period, net of estimated forfeitures, using an accelerated method. The estimated number of awards that ultimately vest is based on historical forfeiture rates and other factors; changes in such estimates result in adjustments to compensation expense. Stock-based compensation also includes cash-settled awards, such as stock appreciation rights, which are remeasured at fair value on each reporting date until settlement."
+    },
+    {
+      "subtitle": "Other Operating Expense (Income), Net",
+      "content": "Other operating expense (income), net, consists primarily of the amortization of intangible assets. In 2022, it included significant impairments of property and equipment and operating leases."
+    }
+  ]
+}

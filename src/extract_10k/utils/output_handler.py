@@ -30,7 +30,6 @@ class OutputHandler:
                         response = self.llm.invoke(
                             prompt, response_format={"type": "json_object"}
                         )
-                        print(response.content)
                         result = json.loads(response.content)
                         schema_pbar.update(1)
 

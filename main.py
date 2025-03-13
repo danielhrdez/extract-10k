@@ -46,19 +46,10 @@ def main():
     output_handler = OutputHandler()
 
     logger.info(f"Downloading and converting document from: {args.url}")
-    document_data = doc_processor.download_and_convert_document(args.url)
+    document = doc_processor.download_and_convert_document(args.url)
 
-    logger.info("Creating document chunks")
-    chunks = doc_processor.create_chunks(document_data)
-
-    logger.info("Creating vector store")
-    vector_store = doc_processor.create_vector_store(chunks)
-
-    logger.info(f"Finding relevant sections for target: {args.target}")
-    relevant_sections = doc_processor.find_relevant_sections(vector_store, args.target)
-
-    logger.info("Extracting target section")
-    result = doc_processor.extract_target_section(relevant_sections, args.target)
+    logger.info(f"Extracting target section: {args.target}")
+    result = doc_processor.extract_target_section(document, args.target)
 
     logger.info("Saving output")
     output_handler.save_output(result, args.output, args.schema)
